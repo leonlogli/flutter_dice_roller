@@ -1,6 +1,6 @@
 # flutter_dice_roller
 
-A new Flutter project.
+Dice roller app to learn dart and flutter basics
 
 ## Getting Started
 
